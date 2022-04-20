@@ -2,6 +2,8 @@
 
 In Module 4 Challenge FinTech Columbia University Boot Camp we created application to analyse 4 whale funds for S&P 500 market data to provide a service of recommendation how a fund to be included for retirees.
 
+![Portfolio Risk and Return](pic.PNG)
+
 ---
 
 ## The Challenge description
